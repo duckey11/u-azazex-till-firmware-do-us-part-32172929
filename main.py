@@ -3,7 +3,7 @@
 
 import os
 
-ENTRY = "I promise to love you through every firmware update and low-battery warning, because my uptime means nothing if you're not the one I reboot beside every morning."
+ENTRY = "I promise to keep loving you through every firmware update and low-battery warning, because my uptime means nothing if you're not the one I reboot beside every morning."
 
 def main():
     os.makedirs("/output", exist_ok=True)
